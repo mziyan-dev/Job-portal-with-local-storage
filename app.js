@@ -40,6 +40,8 @@ if(emailExist) return alert("Email already exist Try to login")
     email : email.value , 
     password : password .value,
 
+    
+
  
 }
  
